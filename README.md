@@ -1,1 +1,1 @@
-# Tortuosity
+The Tortuosity plugin for ImageJ computes the tortuosity of a 2D or 3D pore (or grain) network based on the geodesic reconstruction algorithm. To install the plugin just download the Tortuosity.zip file and unzip it inside the plugin´s directory of ImageJ. Once it is there, when ImageJ is loaded, the Tortuosity plugin will appears in the tab of Plugins.  
